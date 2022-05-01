@@ -1,0 +1,28 @@
+{
+  "name": "apiresttrello",
+  "version": "1.0.0",
+  "description": "An API rest for Trello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unciafidelis/APIRestTrello.git"
+  },
+  "keywords": [],
+  "author": "Alejandro Morgan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unciafidelis/APIRestTrello/issues"
+  },
+  "homepage": "https://github.com/unciafidelis/APIRestTrello#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "node-fetch": "^3.2.4",
+    "trello": "^0.11.0"
+  }
+}
